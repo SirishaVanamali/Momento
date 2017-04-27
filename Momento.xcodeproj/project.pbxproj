@@ -150,13 +150,13 @@
 				E07D9B061EA0336600457195 /* savedViewController.swift */,
 				2D43A5821EA555A100C9A936 /* ProfileViewController.swift */,
 				2D20A1F51E6E1D6800DA8EEC /* LogInViewController.swift */,
+				E0E945F91E9F06280052D9F3 /* EntryFormController.swift */,
 				2D20A1F71E6E1D6800DA8EEC /* Main.storyboard */,
 				E024763A1EA70C4600963668 /* TableTableViewController.swift */,
 				2DBE2F4F1EA2B370009F6DC9 /* Feelings.swift */,
 				2D5ACB4E1E9055BB00821D01 /* SignUpViewController.swift */,
 				2D20A1FA1E6E1D6800DA8EEC /* Assets.xcassets */,
 				2D20A1FC1E6E1D6800DA8EEC /* LaunchScreen.storyboard */,
-				E0E945F91E9F06280052D9F3 /* EntryFormController.swift */,
 				2D20A1FF1E6E1D6800DA8EEC /* Info.plist */,
 			);
 			path = Xpresso;
